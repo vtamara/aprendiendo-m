@@ -15,11 +15,11 @@ Documentación:
 * [Servidores y cortafuegos](http://pasosdejesus.github.io/servidor_adJ/)
 * Páginas man en un sistema ya instalado.
 
-Artículos relavantes en este sitio:
+Artículos relevantes en este sitio:
 
 * [Particiones cifradas](https://aprendiendo.pasosdejesus.org/particiones_cifradas.html/)
 * [Localización en Español](https://aprendiendo.pasosdejesus.org/i18n.html/)
-* [Renombrando daemon por servic](https://aprendiendo.pasosdejesus.org/Renombrando_Daemon_por_Servicio.html "Renombrando daemon por servicio")
+* [Renombrando daemon por servicio](https://aprendiendo.pasosdejesus.org/Renombrando_Daemon_por_Servicio.html "Renombrando daemon por servicio")
 
 Otros Blogs y sitios donde se trata adJ:
 
