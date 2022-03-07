@@ -16,5 +16,3 @@ fields:
   type: tag_list
   default: []
   label: tags
-pages:
-- _posts/semaforos.md
