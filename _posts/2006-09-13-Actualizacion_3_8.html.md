@@ -1,6 +1,6 @@
 ---
 title: Actualizacion_3_8
-date: 2013-11-01
+date: 2006-09-13
 tags:
 ---
 Actualización a Aprendiendo De Jesus 3.8r4

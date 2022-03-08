@@ -1,6 +1,6 @@
 ---
 title: Dedicatoria_3_8
-date: 2013-11-01
+date: 2006-09-13
 tags:
 ---
 Esta recopilación se dedica al Padre Celestial por su amor, al Espíritu 
