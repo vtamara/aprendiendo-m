@@ -21,6 +21,10 @@ cambia mucho de una versión a otra):
 
 ### Historia y referencias
 
+En `newlocale` en caso que el locale sea '', según POSIX es un ambiente
+nativo especificado por la implementación, usamos locale definido
+en el ambiente.
+
 #### 6.2
 
 - OpenBSD implementa completo xlocale, pero vacío, es decir existen todas
@@ -438,5 +442,13 @@ Haremos lo análogo posteriormente pero renombrando de otra forma.
 
 ## BIBLIOGRAFÍA
 
-* {2} Citrus project true multilingual support for BSD operating systems. Jun-Ichiro Itojun Hagino. FREENIX. 2001. http://static.usenix.org/event/usenix01/freenix01/hagino.html
-* {3} Paul Borman. runes - an implementation of setlocale(3) and all its friends. https://groups.google.com/forum/?fromgroups=#!msg/comp.sources.unix/uCc4PLo-l9U/lX9xt5lOpygJ
+
+* {1} Biblia.
+* {2} Citrus project true multilingual support for BSD operating systems. 
+      Jun-Ichiro Itojun Hagino. FREENIX. 2001. 
+      <http://static.usenix.org/event/usenix01/freenix01/hagino.html>
+* {3} Paul Borman. runes - an implementation of setlocale(3) and all its 
+    friends. <https://groups.google.com/forum/?fromgroups=#!msg/comp.sources.unix/uCc4PLo-l9U/lX9xt5lOpygJ>
+* {4} The Open Group. POSIX Base Specifications Issue 7, 2018 edition
+  IEEE Std 1003.1-2017 (Revision of IEEE Std 1003.1-2008). 
+  <https://pubs.opengroup.org/onlinepubs/9699919799/>
