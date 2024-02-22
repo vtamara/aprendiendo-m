@@ -6,7 +6,6 @@ last_modified_at: 2020-06-10
 toc: false
 
 ---
-* [Curso en P2PU para instalar y utilizar adJ como sistema de Escritorio](https://p2pu.org/es/groups/openbsd-adj-como-sistema-de-escritorio/)
 
 Documentación:
 
@@ -23,5 +22,9 @@ Artículos relevantes en este sitio:
 
 Otros Blogs y sitios donde se trata adJ:
 
+* [Repositorio con código fuente](https://gitlab.com/pasosdeJesus/adJ)
 * [DHOBSD](https://dhobsd.pasosdejesus.org/) Dignidad Humana y OpenBSD
-* [OpenBSD Colombia](https://web.archive.org/web/20160316072537/http://www.openbsdcolombia.org/) y [http://groups.google.com/group/OpenBSD-Colombia/](http://groups.google.com/group/OpenBSD-Colombia/ "http://groups.google.com/group/OpenBSD-Colombia/")
+* [OpenBSD Colombia](http://groups.google.com/group/OpenBSD-Colombia/)
+* [Canal de Telegram de OpenBSD México](https://t.me/openbsd_mx)
+* [Página de wikipedia](https://en.wikipedia.org/wiki/AdJ)
+
